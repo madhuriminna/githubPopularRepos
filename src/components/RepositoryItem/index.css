@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.list1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  background-color: #1e293b;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+  width: 200px;
+}
+.avatarimg {
+  height: 100px;
+  width: 100px;
+}
+.h1 {
+  font-size: 20px;
+  color: #e73959;
+}
+.cont {
+  display: flex;
+  flex-direction: row;
+}
+.para {
+  font-size: 18px;
+  color: white;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.img11 {
+  height: 20px;
+  width: 20px;
+  margin-top: 20px;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  margin: 5px;
+}
+.btn1 {
+  background-color: transparent;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: skyblue;
+  color: skyblue;
+  padding: 10px;
+}
+.btn2 {
+  color: black;
+  border-width: 0px;
+  padding: 10px;
+  background-color: transparent;
+}
